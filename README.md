@@ -25,4 +25,3 @@ Due to the data confidentiality, we are not allowed to share the field examples 
 
 ## Acknowledgments
 This material is based upon work supported by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy (EERE) under the Geothermal Technologies Office award number DE-EE0008765. The authors acknowledge the Energi Simulation support of the Center for Reservoir Characterization and Forecasting at USC.
->>>>>>> 118a22c38ab9a50e7b7fc66b0031dc1f2043d5d1
